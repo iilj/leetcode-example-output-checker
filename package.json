@@ -1,7 +1,7 @@
 {
   "name": "leetcode-example-output-checker",
   "version": "1.0.0",
-  "description": "Check if \"Run Code\" result is correct when \"Use Example Testcases\"",
+  "description": "Check if \"Run Code\" result is correct when \"Use Example Testcases\" during LeetCode contests.",
   "typeRoots": [
     "types",
     "node_modules/@types"

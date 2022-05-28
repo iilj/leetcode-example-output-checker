@@ -1,12 +1,12 @@
 leetcode-example-output-checker
 =====
 
-TODO: Add Badge here
+[![Lint](https://github.com/iilj/leetcode-example-output-checker/actions/workflows/main.yml/badge.svg)](https://github.com/iilj/leetcode-example-output-checker/actions/workflows/main.yml)
 
 
 ## Overview
 
-Check if "Run Code" result is correct when "Use Example Testcases".
+Check if "Run Code" result is correct when "Use Example Testcases" during LeetCode contests.
 
 ![Image](images/2022052201.png "Image")
 
@@ -16,7 +16,7 @@ Check if "Run Code" result is correct when "Use Example Testcases".
 
 ## Greasy Fork
 
-- TODO: Insert link here
+- [leetcode\-example\-output\-checker](https://greasyfork.org/ja/scripts/445668-leetcode-example-output-checker)
 
 
 ## Usage
